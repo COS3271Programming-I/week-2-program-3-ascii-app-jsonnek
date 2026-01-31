@@ -1,0 +1,7 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50487 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-2-program-3-ascii-app-jsonnek/out/production/ASCII APP Main
+Random number: 38
+Number in binary:100110
+Number in hexadecimal: 26
+Corresponding  ASCII character: &
+
+Process finished with exit code 0
